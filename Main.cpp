@@ -1,4 +1,5 @@
-//
-// Created by parallels on 7/22/17.
-//
+#include<stdio.h>
+int main(void){
 
+://
+ 
